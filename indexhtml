@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-br"
+<head> 
+    <meta charset="UTF-8"
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <tittle>MUSICAS DE NATAL</tittle>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <h1>FELIZ NATAL☃︎🎅🎄❄️☃️🎁🦌</h1>
+    <p>Boas festas e um feliz NATAL</p>
+    <p> Neste site você irá conhecer as músicas natalinas de diversos estilos!</p>
+</header>
+
+</body>
+</html>
