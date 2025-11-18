@@ -13,5 +13,29 @@
     <p> Neste site você irá conhecer as músicas natalinas de diversos estilos!</p>
 </header>
 
+<nav>
+ <a href="#mensagem">Mensagem</a>
+ <a href="#galeria">Galeria</a>
+ <a href="#contato">#Contato</a>
+</nav>
+
+<h2>O Natal ressoa em melodias únicas em todo o mundo. A clássica alemã "Stille Nacht" (Noite Feliz) e a francesa "Petit Papa Noël" trazem a doçura europeia. Já a animada "Feliz Navidad", do porto-riquenho José Feliciano, mistura inglês e espanhol, tornando-se um hino global. A Coreia do Sul, por sua vez, contribui com canções como "Christmas EveL" do Stray Kids, que traz um toque irreverente e energético do K-pop ao feriado. Enquanto o Brasil celebra com suas próprias composições como "Boas Festas", essa diversidade mostra como a música natalina é um tecido cultural que une diferentes nações.</h2>
+
+<section class="principal">
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+</section>
 </body>
 </html>
