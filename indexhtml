@@ -22,20 +22,52 @@
 <h2>O Natal ressoa em melodias únicas em todo o mundo. A clássica alemã "Stille Nacht" (Noite Feliz) e a francesa "Petit Papa Noël" trazem a doçura europeia. Já a animada "Feliz Navidad", do porto-riquenho José Feliciano, mistura inglês e espanhol, tornando-se um hino global. A Coreia do Sul, por sua vez, contribui com canções como "Christmas EveL" do Stray Kids, que traz um toque irreverente e energético do K-pop ao feriado. Enquanto o Brasil celebra com suas próprias composições como "Boas Festas", essa diversidade mostra como a música natalina é um tecido cultural que une diferentes nações.</h2>
 
 <section class="principal">
+<h3>PRINCIPAIS MÚSICAS <h3/>
 
+    <div class="item">
+        <img scr="Cover-Petit-Papa-Noel-arr.-by-llan-chouraki-Pian FRANCESo-Trio.png"
+        <p>Quando as teclas do piano dão vida a "Petit Papa Noël", o som se transforma em um abraço caloroso na noite fria de Natal. É uma melodia que carrega a doçura da infância, a expectativa silenciosa de uma criança que olha pela janela, e a profunda esperança de que o Papai Noel venha.</p>
 
+        <img src="panfleto-de-concerto-de-natal-com-galhos-de-pinheiro-notas-musicais-de-ouro-edecoracoes-188118_188118-213KKKK.avif"
+        <p>Este panfleto não é apenas um convite, é uma promessa de encanto. Em um fundo de textura aveludada, galhos frescos de pinheiro emolduram o design, espalhando o cheiro imaginário da festa.</p>
 
+        <img src="um-cartaz-para-um-concerto-de-natal-com-um-chapeu-de-papai-noel_18818-2070PPPPPP.avif"
+        <p>O cartaz desdobra a cena festiva. O foco é o chapéu, vibrante em seu vermelho profundo, com a neve branca e macia, quase palpável, na ponta. Ele não apenas anuncia o tema natalino, mas sussurra uma promessa de alegria e a doce diversão que a temporada traz.</p>
+       <div/>
 
+    </section>
 
-
-
-
-
-
-
-
-
-    
+    <main>
+        <section id="mensagem">
+            <h2>Mensagem de Natal</h2>
+            <p>Que a luz desta época ilumine seu coração com a doçura da esperança e a calidez da nostalgia. Que a melodia simples do Natal traga paz, e que você sinta o verdadeiro presente desta data: o afeto daqueles que te amam. Um Natal de amor e momentos preciosos! 💖</p>
+<button onclick="alert('HO HO HO! Feliz Natal!')">Clique aqui</button>
 </section>
+
+<section id="galeria">
+    <h2>Galeria de imagens</h2>
+    <img src="panfleto-de-concerto-de-natal-com-galhos-de-pinheiro-notas-musicais-de-ouro-edecoracoes-188118_188118-213KKKK.avif">
+    <img src="um-cartaz-para-um-concerto-de-natal-com-um-chapeu-de-papai-noel_18818-2070PPPPPP.avif">
+</section>
+
+<section id="contato">
+    <h2>Vocês mandaram muito bem neste ano de transição para o Ensino Médio! Agora, a palavra de ordem é DESCANSO.
+Que o Natal traga muita paz, alegria e tempo de qualidade com quem vocês amam. Recarreguem as energias!
+Desejamos a todos um Natal maravilhoso e um 2º Ano ainda melhor. Boas Festas! 🎅🎉</h2>
+<input type="text" placeholder="Jhenifer Maria"
+<br><br>
+<textarea rows="4" cols="30" placeholder="Que este Natal não seja apenas uma pausa, mas o ponto de partida para a sua próxima grande aventura. Deixe para trás o que não serve mais e abrace a energia de renovação que a virada do ano oferece.
+Que a luz da estrela-guia ilumine seus objetivos e que 2026 seja a página em branco onde você escreverá a sua melhor história.
+Desejo a você um Natal cheio de paz para refletir e um Ano Novo repleto de coragem para começar de novo.
+Boas Festas! ✨"></textarea>
+<br><br>
+<button>Enviar</button>
+</section>
+    </main>
+
+<footer>
+<p>Site criado como atividade de Natal - 1° Ano do Ensino Médio</p>
+
+</footer>
 </body>
 </html>
